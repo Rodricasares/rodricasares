@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rodricaasares</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Cantudo</h1>
 <h3 align="center">Passionate about learning and exploring cutting-edge technologies through programming. Based in Spain, I'm always motivated to dive into new tech stacks and expand my skill set. 🚀 Let's connect and share the journey of continuous learning! 🌐</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodricasares" alt="rodricasares" /></a> </p>
